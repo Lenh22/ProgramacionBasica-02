@@ -5,12 +5,12 @@ IDE: Eclipse
 
 En esta materia estuvieron los siguientes conceptos:
 
--Git, GitHub
+- Git, GitHub
 
--Herencia, Clases Abstractas, Interfaces
+- Herencia, Clases Abstractas, Interfaces
 
--POO, Composición, Sobrecarga, Polimorfismo, Excepciones
+- POO, Composición, Sobrecarga, Polimorfismo, Excepciones
 
--List, Set, Maps
+- List, Set, Maps
 
--JUnit 4 Test Case
+- JUnit 4 Test Case
